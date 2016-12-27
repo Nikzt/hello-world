@@ -1,2 +1,3 @@
 # hello-world
-I'm learning Git :333
+Beep boop bop, do the robot hop.
+
